@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #101012;
+    color: #F0E5D0;
+    font-family: 'Newsreader', serif;
+  }
+}
+
+.font-serif-heading {
+  font-family: 'Cinzel', serif;
+}
+
+.font-serif-body {
+  font-family: 'Newsreader', serif;
+}
+
+.font-ledger {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Custom scrollbars for presentation modules */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #101012;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #521F2B;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #C6A56B;
+}

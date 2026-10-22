@@ -1,0 +1,6 @@
+{
+  "name": "Beyond the Box Office - Cinematic Accounting & Google Slides",
+  "description": "An interactive university-level 10-slide case study exploring entertainment accounting across Hollywood and Indian Cinema, with Google Slides export and financial ledger mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
